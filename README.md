@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/23A91A05H8/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/23A91A05H8/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String
 |  |
 | ------- |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/23A91A05H8/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/23A91A05H8/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Array
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/23A91A05H8/LeetCode/tree/master/0229-majority-element-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/23A91A05H8/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23A91A05H8/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -51,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/23A91A05H8/LeetCode/tree/master/0165-compare-version-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/23A91A05H8/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/23A91A05H8/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/23A91A05H8/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
