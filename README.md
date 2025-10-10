@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/23A91A05H8/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0975-range-sum-of-bst](https://github.com/23A91A05H8/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/23A91A05H8/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/23A91A05H8/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0975-range-sum-of-bst](https://github.com/23A91A05H8/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/23A91A05H8/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search
 |  |
@@ -101,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/23A91A05H8/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/23A91A05H8/LeetCode/tree/master/0975-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/23A91A05H8/LeetCode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
