@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/23A91A05H8/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/23A91A05H8/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/23A91A05H8/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23A91A05H8/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0165-compare-version-numbers](https://github.com/23A91A05H8/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/23A91A05H8/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/23A91A05H8/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/23A91A05H8/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/23A91A05H8/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -120,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23A91A05H8/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/23A91A05H8/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/23A91A05H8/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
