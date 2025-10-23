@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/23A91A05H8/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0165-compare-version-numbers](https://github.com/23A91A05H8/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/23A91A05H8/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/23A91A05H8/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/23A91A05H8/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/23A91A05H8/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/23A91A05H8/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/23A91A05H8/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/23A91A05H8/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23A91A05H8/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/23A91A05H8/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/23A91A05H8/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/23A91A05H8/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
