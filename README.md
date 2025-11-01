@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23A91A05H8/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/23A91A05H8/LeetCode/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/23A91A05H8/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/23A91A05H8/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/23A91A05H8/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/23A91A05H8/LeetCode/tree/master/0022-generate-parentheses) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/23A91A05H8/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/23A91A05H8/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/23A91A05H8/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
