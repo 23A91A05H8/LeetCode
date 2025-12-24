@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/23A91A05H8/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/23A91A05H8/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/23A91A05H8/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3074-apple-redistribution-into-boxes](https://github.com/23A91A05H8/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23A91A05H8/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/23A91A05H8/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/23A91A05H8/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/23A91A05H8/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/23A91A05H8/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3074-apple-redistribution-into-boxes](https://github.com/23A91A05H8/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/23A91A05H8/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/23A91A05H8/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/23A91A05H8/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
