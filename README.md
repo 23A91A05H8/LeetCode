@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/23A91A05H8/LeetCode/tree/master/0053-maximum-subarray) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/23A91A05H8/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23A91A05H8/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/23A91A05H8/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/23A91A05H8/LeetCode/tree/master/0229-majority-element-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/23A91A05H8/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0165-compare-version-numbers](https://github.com/23A91A05H8/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23A91A05H8/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/23A91A05H8/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
