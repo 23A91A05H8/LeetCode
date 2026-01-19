@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/23A91A05H8/LeetCode/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/23A91A05H8/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/23A91A05H8/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/23A91A05H8/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0657-robot-return-to-origin](https://github.com/23A91A05H8/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/23A91A05H8/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/23A91A05H8/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/23A91A05H8/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0165-compare-version-numbers](https://github.com/23A91A05H8/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23A91A05H8/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/23A91A05H8/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/23A91A05H8/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Backtracking
 |  |
